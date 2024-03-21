@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: efidemos/pythonproject
     sonarqube.org/project-key: pythonproject
+    jenkins.io/job-full-name: Roadie/Roadie-Integration
 spec:
   type: sq-repository
   lifecycle: experimental
