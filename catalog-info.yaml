@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "pythonproject"
+  description: "Testing"
+  annotations:
+    github.com/project-slug: efidemos/pythonproject
+    sonarqube.org/project-key: pythonproject
+spec:
+  type: sq-repository
+  lifecycle: experimental
+  owner: "group:efidemos/roadie-backstage-admin"
