@@ -7,6 +7,8 @@ metadata:
     github.com/project-slug: efidemos/pythonproject
     sonarqube.org/project-key: pythonproject
     jenkins.io/job-full-name: Roadie/Roadie-Integration
+    jira/project-key: BACKSTAGE
+    jira/token-type: Bearer
 spec:
   type: sq-repository
   lifecycle: experimental
